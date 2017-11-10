@@ -1,4 +1,4 @@
-package com.manish.javadev;
+package com.deepak;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
