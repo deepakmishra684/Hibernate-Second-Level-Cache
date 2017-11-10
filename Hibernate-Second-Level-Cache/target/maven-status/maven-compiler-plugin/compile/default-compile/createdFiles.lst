@@ -1,0 +1,4 @@
+com\depak\hibernate\cache\manager\LoadManager.class
+com\depak\hibernate\cache\util\HibernateUtil.class
+com\depak\hibernate\cache\model\Employee.class
+com\depak\hibernate\cache\manager\InsertManager.class
